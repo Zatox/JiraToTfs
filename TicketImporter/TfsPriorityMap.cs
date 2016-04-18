@@ -77,6 +77,7 @@ namespace TicketImporter
                 {"Blocker", "1"},
                 {"Critical", "1"},
                 {"Major", "2"},
+                {"Medium", "3"},
                 {"Minor", "3"},
                 {"Trivial", "4"}
             };
